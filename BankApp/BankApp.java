@@ -1,4 +1,4 @@
-package BankApp.Main;
+package BankApp;
 
 public class BankApp {
 
