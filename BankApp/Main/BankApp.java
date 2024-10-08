@@ -1,6 +1,8 @@
-package BankApp;
+package BankApp.Main;
 
 public class BankApp {
+
+    public static void main(String[] args){
 
     // Create Bank Account object
     BankAccount acc1 = new BankAccount("123", "Hassan");
@@ -40,12 +42,7 @@ public class BankApp {
 
     System.out.println("Account 1 Balance is " + acc1.getBalance());
     System.out.println("Account 2 Balance is " + acc2.getBalance());
-
-
-
-
-
-
-
     
+    }
+
 }

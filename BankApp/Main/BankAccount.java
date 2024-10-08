@@ -1,5 +1,5 @@
-package BankApp;
 
+package BankApp.Main;
 public class BankAccount {
 
     // The attributes
@@ -42,5 +42,5 @@ public class BankAccount {
 
       
     }
-    
+
 }
